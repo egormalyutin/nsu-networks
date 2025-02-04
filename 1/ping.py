@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from sys import argv
 from ping3 import ping
 import csv
